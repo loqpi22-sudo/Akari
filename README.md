@@ -1,6 +1,22 @@
 # Akari
 A autonomous plane
 <img width="1040" height="739" alt="image" src="https://github.com/user-attachments/assets/44820b87-fe8f-4ab7-8ab9-fdc7da339f38" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## BOM
 | #  | Item Description                                    | Seller      | Qty | Amount (₹)   | Amount (USD) |
 | -- | --------------------------------------------------- | ----------- | --- | ------------ | ------------ |
 | 1  | Balsa Sheets – 2mm, 1000×1000 (5 sheets)            | Vortex RC   | 1   | 1,250.00     | 15.24        |
@@ -21,6 +37,5 @@ A autonomous plane
 | 16 | **GPS Module – FPV NEO-M8N GPS + Compass**          | **Robu.in** | 1   | **2,199.00** | **26.82**    |
 | 17 | **Battery – Pro-Range 11.1V 3300mAh 35C 3S LiPo**   | **Robu.in** | 1   | **2,371.00** | **28.91**    |
 | Currency    | Total          |
-| ----------- | -------------- |
 | **INR (₹)** | **₹25,212.07** |
-| **USD ($)** | ** $307.5**   |
+| **USD ($)** | **$307.5**   |
