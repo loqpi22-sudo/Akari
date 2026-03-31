@@ -10,8 +10,8 @@ Item No,Item Description,Seller,Quantity,Amount INR,Amount USD
 9,Shipping Charge,Vortex RC,1,750.0,9.15
 10,Hobbywing SkyWalker 2312SL 1400KV Brushless Motor,Robu.in,2,4716.99,57.52
 11,Pro-Range 8046 3-Blade Propellers (1CW+1CCW),Robu.in,1,323.21,3.94
-12,40A 2-6S Brushless ESC 3.5mm Connector,Robu.in,2,1632.34,19.91
-13,Shipping BlueDart Air,Robu.in,1,41.53,0.51
-14,SpeedyBee F405 WING APP Flight Controller,Robu.in,1,4181.0,50.99
-15,RadioMaster ER6 2.4GHz ELRS PWM Receiver,DRK Store,1,2699.0,32.91
-TOTAL,,,,20692.07,251.73
+12,Shipping BlueDart Air,Robu.in,1,41.53,0.51
+13,RadioMaster ER6 2.4GHz ELRS PWM Receiver,DRK Store,1,2699.0,32.91
+14,PCB Order (JLCPCB - FC + ESC boards),JLCPCB,1,3453.0,41.60
+15,Electronics Components (MCU, MOSFETs, IMU, regulators, passives),Various,1,2360.0,29.30
+TOTAL,,,,20692.73,251.70
